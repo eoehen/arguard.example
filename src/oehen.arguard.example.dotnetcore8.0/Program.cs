@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace oehen.arguard.example.dotnetcore5
+namespace oehen.arguard.example.dotnetcore8
 {
     class Program
     {

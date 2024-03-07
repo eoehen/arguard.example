@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>oehen.arguard.example.dotnetcore5</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>oehen.arguard.example.dotnetcore8</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

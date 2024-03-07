@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace oehen.arguard.example.net4_7_2
+namespace oehen.arguard.example.net4_8
 {
     internal class Program
     {
